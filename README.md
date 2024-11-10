@@ -37,7 +37,7 @@ Ten skrypt automatycznie instaluje Home Assistant z obsługą ZigBee oraz dodatk
 1. **Pobierz skrypt:**
 
    ```bash
-   git clone https://github.com/twoj-uzytkownik/home-assistant-install.git
+   git clone https://github.com/marcinkordas/HomeAssistantDeploy.git
    cd home-assistant-install
    ```
 
